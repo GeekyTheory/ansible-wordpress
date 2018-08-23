@@ -1,0 +1,8 @@
+---
+
+webserver_root: "/var/www/html"
+
+dbhost: "127.0.0.1"
+dbname: "wordpressdb"
+dbuser: "wpuser"
+dbpasswd: "wpuser"
